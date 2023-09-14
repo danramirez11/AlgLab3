@@ -1,4 +1,5 @@
-export const objectWithImages = [
+export const objectWithImages = { 
+	images: [
 		[
 			[0, 0, 1, 1, 1, 1, 0, 0],
 			[0, 1, 0, 0, 0, 0, 1, 0],
@@ -64,4 +65,5 @@ export const objectWithImages = [
 			[0, 0, 1, 1, 1, 1, 1, 0, 0],
 			[0, 0, 0, 1, 1, 1, 0, 0, 0],
 		],
-	];
+	],
+}

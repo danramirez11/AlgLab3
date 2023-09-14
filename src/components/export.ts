@@ -1,1 +1,1 @@
-export {default as Card} from "./Div/Div.js"
+export {default as DivColor} from "./Div/Div.js"
